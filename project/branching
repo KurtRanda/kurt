@@ -1,0 +1,5 @@
+- What ***git*** command creates a branch? git checkout -b
+- What is the difference between a fast-forward and recursive merge? fast forwrds can only occur if there is not any commits on the original branch.
+- What ***git*** command changes to another branch? git checkout
+- What ***git*** command deletes a branch? git branch -d
+- How do merge conflicts happen? When there is multiple commits with changes on the same file. It will ask which commits you would like to keep.
